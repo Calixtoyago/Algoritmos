@@ -6,8 +6,7 @@ def adicionar_cliente(nome, email, telefone, endereco):
     unico.append(email)
     unico.append(telefone) 
     unico.append(endereco)
-    separador = ' '
-    clientes.append(separador.join(unico[:]))
+    clientes.append(' '.join(unico[:]))
     unico.clear()
 
 def exibir_clientes():

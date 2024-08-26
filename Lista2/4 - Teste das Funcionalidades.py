@@ -29,14 +29,15 @@ def remover_cliente(email):
 
 while True:
     print(f'{'CADASTRO DE CLIENTES':-^36}')
-    escolha = 5
-    while escolha not in range(5):
-        escolha = int(input('''[0] Adicionar cliente
+    escolha = ''
+    print('Escolha a funcionalidade:')
+    while escolha not in ('0', '1', '2', '3', '4'):
+        escolha = input('''[0] Adicionar cliente
 [1] Exibir clientes
 [2] Buscar clientes pelo email
 [3] Remover cliente pelo email
 [4] Sair
->>> '''))
+>>> ''')
     if escolha == 0:
         nome = input('None: ')
         email = input('Email: ')

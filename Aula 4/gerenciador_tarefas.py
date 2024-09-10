@@ -1,6 +1,5 @@
 lista_tarefa = []
 tarefa = {}
-id = 0
 
 def adicionar_tarefa(descricao, status, prioridade):
     for c in range(len(lista_tarefa) + 2):

@@ -143,9 +143,3 @@ def menu():
             break
  
 menu()
-
-# adicionar_tarefa("trabalho", "pendente", "baixa")
-# adicionar_tarefa("teste", "pendente", "alta")
-# visualizar_tarefas()
-
-# print(filtrar_tarefas(status="pendente", prioridade=None))

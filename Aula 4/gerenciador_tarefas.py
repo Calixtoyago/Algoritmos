@@ -18,12 +18,6 @@ def visualizar_tarefas():
         print()
 
 
-# def filtrar_tarefas(status=None, prioridade=None):
-#     tarefas_filtradas = [tarefa for tarefa in lista_tarefa 
-#         if (tarefa["status"]==status and tarefa["prioridade"]==prioridade) or
-#         (tarefa["status"]==status or tarefa["prioridade"]==prioridade)]
-#     print(tarefas_filtradas)
-
 def filtrar_tarefas(status=None, prioridade=None):
     tarefas_filtradas = []
     if status != None and prioridade != None:

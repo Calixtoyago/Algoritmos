@@ -1,0 +1,90 @@
+
+When water was discovered on Mars, people got very excited
+Where there is water, there may be life
+Scientists are planning new missions to study the planet up close
+NASA’s next Mars rover is scheduled to arrive in 2010
+In the decade following, a Mars Sample Return mission might be launched, which would use robotic systems to collect samples of Martian rocks, soils, and atmosphere, and return them to Earth
+We could then analyze the sample to see if it contains any traces of life, whether extinct or still active
+Such a discovery would be of tremendous scientific significance
+What could be more fascinating than discovering life that had evolved entirely independently of life here on Earth? Many people would also find it heartening to learn that we are not entirely alone in this vast cold cosmos
+
+
+But I hope that our Mars probes will discover nothing
+It would be good news if we find Mars to be completely sterile
+Dead rocks and lifeless sands would lift my spirit
+
+
+Conversely, if we discovered traces of some simple extinct life form – some bacteria, some algae – it would be bad news
+If we found fossils of something more advanced, perhaps something looking like the remnants of a trilobite or even the skeleton of a small mammal, it would be very bad news
+The more complex the life we found, the more depressing the news of its existence would be
+Scientifically interesting, certainly, but a bad omen for the future of the human race
+
+
+How do I arrive at this conclusion? I begin by reflecting on a well‐known fact
+UFO‐ spotters, Raelian cultists, and self‐certified alien abductees notwithstanding, humans have, to date, seen no sign of any extraterrestrial intelligent civilization
+We have not received any visitors from space, nor have our radio telescopes detected any signals transmitted by any extraterrestrial civilization
+The Search for Extra‐Terrestrial Intelligent Life (SETI) has been going for nearly fifty years, employing increasingly powerful telescopes and data mining techniques, and has so far consistently corroborated the null hypothesis
+As best we have been able to determine, the night sky is empty and silent – the question “Where are they?” thus being at least as pertinent today as it was when Enrico Fermi first posed it during a lunch discussion with some of his physicist colleagues back in 1950
+
+
+Here is another fact: There are on the order of 100 billion stars in our galaxy alone, and the observable universe contains on the order of 100 billion galaxies
+In the last couple of decades, we have learnt that many of these stars have planets circling around them
+By now, several hundred exoplanets we have discovered
+Most of these are gigantic, but this is due to a selection effect: It is very difficult to detect smaller exoplanets with current observation methods
+(In most cases, the planets cannot be directly observed
+Their existence is inferred from their gravitational influence on their parent sun, which wobbles slightly when pulled towards a large orbiting planet; or alternatively by a slight fluctuation in their sun’s perceived luminosity which occurs when it is partially eclipsed by the exoplanet
+) We have every reason to believe that the observable universe contains vast numbers of solar systems, including many that have planets that are Earth‐like at least in the sense of having a mass and temperature similar to those of our own orb
+We also know that many of these solar systems are much older than ours
+
+
+From these two facts it follows that there exists a “Great Filter”
+1 The Great Filter can be thought of as a probability barrier
+It consists of one or more highly improbable evolutionary transitions or steps whose occurrence is required in order for an Earth‐like planet to produce an intelligent civilization of a type that would be visible to us with our current observation technology
+You start with billions and billions of potential germination points for life, and you end up with a sum total of zero extraterrestrial civilizations that we can observe
+The Great Filter must therefore be powerful enough – which is to say, the critical steps must be improbable enough – that even with many billions rolls of the dice, one ends up with nothing: no aliens, no spacecraft, no signals, at least none that we can detect in our neck of the woods
+
+
+Now, an important question for us is, just where might this Great Filter be located? There are two basic possibilities: It might be behind us, somewhere in our distant past
+Or it might be ahead of us, somewhere in the millennia or decades to come
+Let us ponder these possibilities in turn
+
+
+Consider first the possibility that the filter is in our past
+This would mean that there is some extremely improbable step in the sequence of events whereby an Earth‐like planet gives rise to an intelligent life form comparable in its technological sophistication to our contemporary human civilization
+Some people seem to take it for granted that evolution of intelligent life on this planet was straightforward – lengthy, yes, complex, sure, yet ultimately inevitable or nearly so
+Carl Sagan appears to have held this view; he once wrote that “the origin of life must be a highly probable circumstance; as soon as conditions permit, up it pops!”2 But this view might well be completely mistaken
+There is at any rate hardly any evidence to support it
+Evolutionary biology, at the moment, does not enable us to calculate from first principles how probable or improbable the evolution of intelligent life on Earth was
+Moreover, if we look back at the history of life on this planet, we can identify a number of evolutionary transitions each one of which is a plausible candidate Great Filter
+
+
+For example, perhaps it is very, very improbable that even simple self‐replicators should emerge on any given Earth‐like planet
+Attempts to create life in the laboratory by mixing water and gases believed to have existed in the early atmosphere on Earth have failed to get much beyond the synthesis of a few simple amino acids
+No instance of abiogenesis has ever been observed
+
+
+The oldest confirmed microfossils date from approximately 3,500 million years ago, and there is tentative evidence that life might have existed a few hundred million years prior to that date, but no evidence of life before 3,800 million years ago
+Life might well have arisen considerably earlier than that without leaving any traces
+There are very few preserved rock formations this old and such as have survived have undergone major remolding over the eons
+Nevertheless, there is a period lasting several hundreds of millions of years between the formation of Earth and the first known life
+The evidence is thus consistent with the hypothesis that the emergence of life required an extremely improbable set of coincidences, and that it took hundreds of millions of years of trial‐ and‐error, of molecules and surface structures randomly interacting, before something capable of self‐replication happened to appear by a stroke of astronomical luck
+For aught we know, this first critical step could be a Great Filter
+
+
+Since we cannot rerun the history of life multiple times to obtain rigorous statistics, it is difficult to determine conclusively the “difficulty” of any given evolutionary development
+There are, however, some criteria that we can use to identify evolutionary transitions that are at least good candidates for being a Great Filter, i
+e
+that are both extremely improbable and practically necessary for the eventual emergence of intelligent technological civilization
+One criterion is that the transition should have occurred only once
+Flight, sight, photosynthesis, and limbs have all evolved several times here on Earth, and are thus ruled out
+Another indication that an evolutionary step was very improbable is that it took a very long time for it to occur even after its prerequisites were in place
+A long delay suggests that a vastly many random recombinations had to be tried before one was found that worked
+Perhaps several improbable mutations had to occur all at once in order to leap from one local fitness peak to another: the mutations might individually be deleterious and only fitness‐enhancing when they occur together
+(The evolution of Homo sapiens from one of our recent hominid ancestors, such as Homo erectus, happened rather quickly on geological timescales, so this step would be a relatively weak candidate for a Great Filter
+)
+
+The original emergence of life appears to meet these two criteria
+As far as we know, it might have occurred only once and it might have taken hundreds of millions of years for it to happen even after the planet had cooled down sufficiently to enable a wide range of organic molecules to be stable
+Later evolutionary history offers additional candidates for the Great Filter
+For example, it took some 1
+8 billion years for prokaryotes (the most basic type of single‐cell organism) to evolve into eukaryotes (a more complex kind of cell with a membrane‐enclosed nucleus)

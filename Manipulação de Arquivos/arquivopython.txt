@@ -1,0 +1,2 @@
+escrevendo uma linha no arquivo
+escrevendo outra linha no arquivo

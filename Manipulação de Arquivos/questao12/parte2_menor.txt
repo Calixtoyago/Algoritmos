@@ -1,0 +1,90 @@
+1
+8 billion years is a long time, and as far as we know eukaryotes evolved only once, making this transition an excellent possible Great Filter
+Other strong candidates include the rise of multi‐cellular organisms and sexual reproduction
+
+
+So one possibility is that the Great Filter is behind us
+This would explain the absence of observable aliens
+Why? Because if the rise of intelligent life on any one planet is sufficiently improbable, then it follows that we are most likely the only such civilization in our galaxy or even in the entire observable universe
+(The observable universe contains approximately 1022 stars
+The universe might well extend infinitely far beyond the part that is observable by us, and may contain infinitely many stars
+If so, then it is virtually certain that there exists an infinite number of intelligent extraterrestrial species, no matter how improbable their evolution on any given planet
+However, cosmological theory implies that, due to the expansion of the universe, any life outside the observable universe is and will forever remain causally disconnected from us: it can never visit us, communicate with us, or be seen by us or our descendants
+)
+
+The other possibility is that the Great Filter is after us, in our future
+This would mean that there is some great improbability that prevents almost all technological civilizations at our current human stage of development from progressing to the point where they engage in large‐scale space‐colonization and make their presence known to other technological civilizations
+For example, it might be that any sufficiently technologically advanced civilization discovers some technology – perhaps some very powerful weapons technology – that causes its extinction
+
+
+I will return to this scenario shortly, but first I shall say a few words about another theoretical possibility: that the extraterrestrials are out there, in abundance but hidden from our view
+I think this is unlikely, because if extraterrestrials do exist in any numbers, it’s reasonable to think at least one species would have already expanded throughout the galaxy, or beyond
+Yet we have met no one
+
+
+Various schemes have been proposed for how an intelligent species might colonize space
+They might send out “manned” space ships, which would establish colonies and “terraform” new planets, beginning with worlds in their own solar system before moving on to more distant destinations
+But much more likely, in my view, would be colonization by means of so‐called “von Neumann probes”, named after the Hungarian‐ born prodigy John von Neumann, who included among his many mathematical and scientific achievements the development of the concept of a universal constructor
+A von Neumann probe would be an unmanned self‐replicating spacecraft, controlled by artificial intelligence, capable of interstellar travel
+A probe would land on a planet (or a moon or asteroid), where it would mine raw materials to create multiple replicas of itself, perhaps using advanced forms of nanotechnology
+These replicas would then be launched in various directions, thus setting in motion a multiplying colonization wave
+3 Our galaxy is about 100,000 light years across
+If a probe were capable of travelling at one‐tenth of the speed of light, every planet in the galaxy could thus be colonized within a couple of million years (allowing some time for the bootstrapping process that needs to take place between a probe’s landing on a resource site, setting up the necessary infrastructure, and producing daughter probes)
+If travel speed were limited to 1% of light speed, colonization might take twenty million years instead
+The exact numbers do not matter much because they are at any rate very short compared to the astronomical time scales involved in the evolution of intelligent life from scratch (billions of years)
+
+
+If building a von Neumann probe seems like a very difficult thing to do – well, surely it is, but we are not talking about a proposal for something that NASA or the European Space Agency should get to work on today
+Rather, we are considering what would be accomplish with some future very advanced technology
+We ourselves might build Neumann probes in decades, centuries, or millennia – intervals that are mere blips compared to the lifespan of a planet
+Considering that space travel was science fiction a mere half century ago, we should, I think, be extremely reluctant to proclaim something forever technologically infeasible unless it conflicts with some hard physical constraint
+Our early space probes are already out there: Voyager 1, for example, is now beyond our solar system
+
+
+Even if an advanced technological civilization could spread throughout the galaxy in a relatively short period of time (and thereafter spread to neighboring galaxies), one might still wonder whether it would opt to do so
+Perhaps it would rather choose to stay at home and live in harmony with nature
+However, there are a number of considerations that make this a less plausible explanation of the great silence
+First, we observe that life here on Earth manifests a very strong tendency to spread wherever it can
+On our planet, life has spread to every nook and cranny that can sustain it: East, West, North, and South; land, water, and air; desert, tropic, and arctic ice; underground rocks, hydrothermal vents, and radioactive waste dumps; there are even living beings inside the bodies of other living beings
+This empirical finding is of course entirely consonant with what one would expect on the basis of elementary evolutionary theory
+Second, if we consider our own species in particular, we also find that it has spread to every part of the planet, and we even have even established a presence in space, at vast expense, with the international space station
+Third, there is an obvious reason for an advanced civilization that has the technology to go into space relatively cheaply to do so: namely, that’s where most of the resources are
+Land, minerals, energy, negentropy, matter: all abundant out there yet limited on any one home planet
+These resources could be used to support a growing population and to construct giant temples or supercomputers or whatever structures a civilization values
+Fourth, even if some advanced civilization were non‐expansionary to begin with, it might change its mind after a hundred years or fifty thousand years – a delay too short to matter
+Fifth, even if some advanced civilization chose to remain non‐expansionist forever, it would still not make any difference if there were at least one other civilization out there that at some point opted to launch a colonization process: that expansionary civilization would then be the one whose probes, colonies, or descendants would fill the galaxy
+It takes but one match to start a fire; only one expansionist civilization to launch the colonization of the universe
+
+
+For all these reasons it seems unlikely that the galaxy is teeming with intelligent life and that the reason we haven’t seen any of them is that they all confine themselves to their home planets
+Now, it is possible to concoct scenarios in which the universe is swarming with advanced civilizations every one of which chooses to keep itself well hidden from our view
+Maybe there is a secret society of advanced civilizations that know about us but have decided not to contact us until we’re mature enough to be admitted into their club
+Perhaps they’re observing us, like animals in a zoo
+I don’t see how we can conclusively rule out this possibility
+But I will set it aside for the remainder of this essay in order to concentrate what to me appears to be more plausible answers to Fermi’s question
+
+
+A disconcerting hypothesis is that the Great Filter consists in some destructive tendency common to virtually all sufficiently advanced technological civilizations
+Throughout history, great civilizations on Earth have imploded – the Roman Empire, the Mayan civilization that once flourished in Central America, and many others
+However, the kind of societal collapse that merely delays the eventual emergence of a space‐colonizing civilization by a few hundred or a few thousand years would not help explain why no such civilization has visited us from another planet
+A thousand years may seem a long time to an individual, but in this context it’s a sneeze
+There are planets that are billions of years older than Earth
+Any intelligent species on those planets would have had ample time to recover from repeated social or ecological collapses
+Even if they failed a thousand times before they succeeded, they could still have arrived here hundreds of millions of years ago
+
+
+To constitute an effective Great Filter, we hypothesize a terminal global cataclysm: an existential catastrophe
+An existential risk is one where an adverse outcome would annihilate Earth‐originating intelligent life or permanently and drastically curtail its potential for future development
+We can identify a number of potential existential risks: nuclear war fought with stockpiles much greater than those that exist today (maybe resulting from future arms races); a genetically engineered superbug; environmental disaster; asteroid impact; wars or terrorists act committed with powerful future weapons, perhaps based on advanced forms of nanotechnology; superintelligent general artificial intelligence with destructive goals; high‐energy physics experiments; a permanent global Brave‐New‐World‐like totalitarian regime protected from revolution by new surveillance and mind control technologies
+These are just some of the existential risks that have been discussed in the literature, and considering that many of these have been conceptualized only in recent decades, it is plausible to assume that there are further existential risks that we have not yet thought of
+
+
+The study of existential risks is an extremely important albeit rather neglected field of inquiry
+But here we must limit ourselves to making just one point
+In order for some existential risk to constitute a plausible Great Filter, it is not sufficient that we judge it to have a significant subjective probability of destroying humanity
+Rather, it must be of a kind that could with some plausibility be postulated to destroy virtually all sufficiently advanced civilizations
+For instance, stochastic natural disasters such as asteroid hits and super‐volcanic eruptions are unlikely Great Filter candidates, because even if they destroyed a significant number of civilizations we would expect some civilizations to get lucky and escape disaster; and some of these civilizations could then go on to colonize the universe
+Perhaps the most likely type of existential risks that could constitute a Great Filter are those that arise from technological discovery
+It is not farfetched to suppose that there might be some possible technology which is such that (a) virtually all sufficiently advanced civilizations eventually discover it and (b) its discovery leads almost universally to existential disaster
+
+
